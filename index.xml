@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Keene Kelderman</title>
+    <link>https://hkkelderman.github.io/Data_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Keene Kelderman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Aug 2021 09:24:59 -0400</lastBuildDate><atom:link href="https://hkkelderman.github.io/Data_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EPA WebFIRE Website Scraper</title>
+      <link>https://hkkelderman.github.io/Data_Portfolio/post/project-3/</link>
+      <pubDate>Tue, 24 Aug 2021 09:24:59 -0400</pubDate>
+      
+      <guid>https://hkkelderman.github.io/Data_Portfolio/post/project-3/</guid>
+      <description>This is a Python script written to scrape fenceline benzene data from EPA’s WebFIRE Report Search page, using Selenium.
+The scraper conducts a search based on the input parameters and downloads the zip files from the resulting pages. The code then unzips each of the folders, renaming the contents, and places them in a new folder to then be cleaned and analyzed with separate code. Prior to this, our organization downloaded these reports by hand, so this scraper has already saved countless hours of work, as data are released on a quarterly basis.</description>
+    </item>
+    
+    <item>
+      <title>Flatiron Capstone</title>
+      <link>https://hkkelderman.github.io/Data_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 24 Aug 2021 09:10:59 -0400</pubDate>
+      
+      <guid>https://hkkelderman.github.io/Data_Portfolio/post/project-2/</guid>
+      <description>Used statistical testing and parametric and nonparametric modeling techniques to explore and model a federally maintained database of wildfires.
+ Joined historical climate data from NOAA and geographical data from EPA to the wildfire dataset using GeoPandas Used parametric and nonparametric modeling to model fire size based on various climate and geographical data points Performed statistical testing in order to determine regions and states at risk for increased wildfire size   Github Link</description>
+    </item>
+    
+    <item>
+      <title>Flatiron Module 4 Project</title>
+      <link>https://hkkelderman.github.io/Data_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 24 Aug 2021 08:58:32 -0400</pubDate>
+      
+      <guid>https://hkkelderman.github.io/Data_Portfolio/post/project-1/</guid>
+      <description>I created an AutoRegressive Integrated Moving Average (ARIMA) time series model to determine the best zipcodes for investment. The model was generated using historical median house sales from Zillow all the way back from 1996 from across the entire United States. There were a lot more factors to consider than what what was accounted for with the dataset provided, which is why this particular dataset was a little too simple for predicting solid investments.</description>
+    </item>
+    
+  </channel>
+</rss>
